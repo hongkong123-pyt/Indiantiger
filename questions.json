@@ -271,16 +271,6 @@
       "answer": "1 and 2 are correct"
     },
     {
-      "question": "The consumption of medicines or other substances may have consequences on qualification to fly for the following reasons:",
-      "choices": [
-        "1, 2, 3, 4.",
-        "1, 3, 4.",
-        "1, 2, 3.",
-        "1, 2."
-      ],
-      "answer": "1, 2, 3, 4."
-    },
-    {
       "question": "How should a pilot react, when suffering from chronic stress?",
       "choices": [
         "Ignore the particular stressors and increase your physical exercises.",
@@ -291,7 +281,7 @@
       "answer": "Attempt to reduce the stress by using a concept which approaches the entire body and improves wellness."
     },
     {
-      "question": "Which of the following are either cumulative or tend to escalate?",
+      "question": "Which of the following are either cumulative or tend to escalate? 1.⁠ ⁠Stress factors (stressors) 2.⁠ ⁠Errors 3.⁠ ⁠The effects of carbon monoxide poisoning 4.⁠ ⁠Human conflict 5.⁠ ⁠Colour blindness. Which combination of statements is correct?",
       "choices": [
         "2, 3, 5.",
         "1, 2.",
@@ -309,16 +299,6 @@
         "Thunderstorm."
       ],
       "answer": "Shortened turn-around schedules."
-    },
-    {
-      "question": "In order to avoiding getting type 2 diabetes, you should:",
-      "choices": [
-        "1, 2, 3, 4.",
-        "1, 4.",
-        "1, 2.",
-        "3, 4."
-      ],
-      "answer": "1, 2."
     },
     {
       "question": "Concerning flying and blood alcohol content, which of the following statements is correct?",
@@ -431,17 +411,7 @@
       "answer": "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold short or missed taxiway or runway."
     },
     {
-      "question": "Which of the following physical stimuli may cause stress reactions?",
-      "choices": [
-        "2, 3, 5.",
-        "1, 3, 5.",
-        "1, 3, 4.",
-        "3, 4, 5."
-      ],
-      "answer": "1, 3, 5."
-    },
-    {
-      "question": "Which of the following mechanisms regulate body temperature when subject to extreme high environmental temperatures?",
+      "question": "Which of the following mechanisms regulate body temperature when subject to extreme high environmental temperatures? 1.⁠ ⁠Shivering 2.⁠ ⁠Vasoconstriction of peripheral blood vessels 3.⁠ ⁠Sweating 4.⁠ ⁠Vasodilatation of peripheral blood vessels.",
       "choices": [
         "1, 3, 4.",
         "2, 3.",
@@ -461,7 +431,7 @@
       "answer": "Normal phenomenon that enables an individual to adapt to encountered situations."
     },
     {
-      "question": "Which option correctly identifies, from the items listed below, the effects of arousal on performance?",
+      "question": "Which option correctly identifies, from the items listed below, the effects of arousal on performance? 1.It always reduces performance 2. Optimum performance is obtained with optimum arousal 3. Excessive levels of arousal weaken performance 4. Insufficient levels of arousal weaken performance",
       "choices": [
         "1, 3, 4.",
         "1, 2, 4.",
@@ -511,26 +481,6 @@
       "answer": "Is roughly half the number of hours of sleep missed."
     },
     {
-      "question": "According to the different phases of the 'General Adaptation Syndrome' which of the following statements are correct?",
-      "choices": [
-        "1",
-        "1, 2, 3",
-        "1, 2",
-        "2, 3"
-      ],
-      "answer": "1, 2, 3"
-    },
-    {
-      "question": "The following course of action should be taken if gastrointestinal or cardiopulmonary complaints in flight crew occur before take-off:",
-      "choices": [
-        "1, 3",
-        "1, 2, 4",
-        "2, 3",
-        "1, 4"
-      ],
-      "answer": "2, 3"
-    },
-    {
       "question": "Oxygen transport to the tissues:",
       "choices": [
         "Will be maintained even during severe hypoxia.",
@@ -539,16 +489,6 @@
         "Is independent of haemoglobin levels as oxygen is mainly dissolved in the plasma."
       ],
       "answer": "Depends on haemoglobin level and blood flow."
-    },
-    {
-      "question": "Which of the items in the following list affect the function of vision?",
-      "choices": [
-        "2, 3, 4 only.",
-        "1, 2, 4 only.",
-        "4 only.",
-        "2, 3, 4 only"
-      ],
-      "answer": "2, 3, 4 only"
     },
     {
       "question": "One of the substances present in the smoke of cigarettes can make it significantly more difficult for the red blood cells to transport oxygen and as a consequence contributes to hypoxia. To which substance are we referring?",
